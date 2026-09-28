@@ -4,6 +4,4 @@
 
 ### Hola, soy Chosky
 
-Construyo proyectos personales y comparto lo que aprendo mientras los desarrollo. Me interesan las ideas útiles, las interfaces claras y los detalles bien resueltos.
-
-Este perfil reúne mis proyectos. Cada uno tendrá una explicación sencilla de qué hace y cómo probarlo.
+Mi basurero de cosas realizadas mediante vibecoding, no os espereis ver autenticas obras de arte

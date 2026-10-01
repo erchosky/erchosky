@@ -4,4 +4,5 @@
 
 ### Hola, soy Chosky
 
-Mi basurero de cosas realizadas mediante vibecoding, no os espereis ver autenticas obras de arte
+Mi basurero de cosas realizadas mediante vibecoding puro Codex atope con la cope, no os espereis ver autenticas obras de arte de codigo. 
+Muchas cosas no estan ni terminadas ni me dan los tokens para tanto chacho! sabeehh o noohhh

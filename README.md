@@ -2,7 +2,10 @@
   <img src="./assets/chosky-header.svg" alt="Chosky — proyectos personales" width="100%">
 </p>
 
-### Hola, soy Chosky
+### Oye, soy Chosky
 
-Mi basurero de cosas realizadas mediante vibecoding puro Codex atope con la cope, no os espereis ver autenticas obras de arte de codigo. 
-Muchas cosas no estan ni terminadas ni me dan los tokens para tanto chacho! sabeehh o noohhh
+Este es mi basurero de inventos hechos con vibecoding puro y Codex, a tope con la cope. Apps, webs, juegos y cosas que se me van ocurriendo.
+
+No os esperéis auténticas obras de arte del código. Muchas cosas están a medias y tampoco me dan los tokens para tanto, chacho.
+
+Si algo os sirve, de lujo. Y si está sin terminar, pues otro invento en la pila. Sabeehh o noohhh.

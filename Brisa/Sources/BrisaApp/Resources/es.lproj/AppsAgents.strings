@@ -1,0 +1,20 @@
+/* Brisa AppsAgents (es) */
+"agents.title" = "Agentes locales";
+"agents.subtitle" = "Herramientas detectadas en este Mac.";
+"agents.execution_disabled" = "Ejecución de agentes desactivada";
+"agents.body" = "Por ahora, Brisa solo muestra qué agentes encuentra. El análisis de archivos funciona sin ellos.";
+"agents.not_found" = "No encontrado en ubicaciones conocidas";
+"agents.status_line" = "Autenticación: no comprobada · Ejecución: desactivada";
+"agents.not_detected" = "No detectado";
+"agents.installed_readonly" = "Instalado (solo lectura)";
+"agents.detect_again" = "Volver a detectar";
+"agents.mcp_title" = "Conexión externa opcional";
+"agents.mcp_description" = "brisa-mcp expone metadatos del índice, estado de worktrees en inventario, procesos y archivos abiertos. No expone contenido de archivos. No tiene herramientas para borrar o cerrar procesos.";
+"apps.title" = "Aplicaciones";
+"apps.subtitle" = "Elige una aplicación para consultar sus carpetas relacionadas.";
+"apps.search_placeholder" = "Buscar aplicaciones…";
+"apps.partial_list" = "Listado parcial: algunas ubicaciones no se han podido comprobar.";
+"apps.close_preview" = "Cerrar vista previa";
+"apps.view_only_note" = "Vista de consulta. La desinstalación no está disponible en Brisa.";
+"apps.subtitle_uninstaller" = "Elige una app para inspeccionar su bundle ID, firma, contenedores exclusivos y posibles datos compartidos.";
+"apps.uninstall_note" = "Los restos compatibles pasan a la Papelera tras revalidarse. Las apps del sistema o en ejecución permanecen bloqueadas.";

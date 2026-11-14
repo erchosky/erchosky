@@ -4,9 +4,9 @@
 
 # Hola, soy Chosky 👋
 
-Aquí comparto mis proyectos de aplicaciones, juegos, redes y ciberseguridad. Me gusta partir de una idea, construir algo que pueda usar y aprender cómo funciona durante el proceso.
+Mi basurero personal de mis proyectos de aplicaciones, juegos etc. Necesito algo y lo hago, construir algo que pueda usar gastando agua del rio nilo.
 
-Trabajo con ayuda de IA y voy dejando el código, las instrucciones y las limitaciones de cada proyecto. Hay herramientas más avanzadas y prototipos que siguen creciendo.
+Todo esta realizado por vibecoding, no se hacer un hola mundo en ningun lenguaje y no me averguenzo. HOLA CODEX!.
 
 ## Ciberseguridad y redes
 
